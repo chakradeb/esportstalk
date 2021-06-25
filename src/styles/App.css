@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.App-header {
+    height: 20vh;
+    background-color: #010a01;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 95px;
+    color: #fff;
+}
+
+.Content {
+    height: 80vh;
+    background-color: #010a01;
+    display: flex;
+    justify-content: center;
+}
+
+.Container {
+    height: min-content;
+    width: 50%;
+    top: 25%;
+    padding-bottom: 3%;
+    background-color: #E43F5A;
+    position: absolute;
+    z-index: 9999;
+    border-radius: 15px;
+    text-align: center;
+}

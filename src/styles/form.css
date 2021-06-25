@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input {
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 10px;
+    width: 60%;
+    border: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input[type=text]:focus {
+    outline: none !important;
+    background-color: #ffd969;
+}
+
+input[type=submit]:focus {
+    outline: none !important;
+    background-color: #34dbf4;
+}
+
+.optional:focus {
+    outline: none;
+    background-color: #364966 !important;
+}
