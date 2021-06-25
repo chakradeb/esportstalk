@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/esportstalk/static/css/main.6cc18b57.chunk.css",
+    "main.js": "/esportstalk/static/js/main.ce7e7ef3.chunk.js",
+    "main.js.map": "/esportstalk/static/js/main.ce7e7ef3.chunk.js.map",
+    "runtime-main.js": "/esportstalk/static/js/runtime-main.ba47f43d.js",
+    "runtime-main.js.map": "/esportstalk/static/js/runtime-main.ba47f43d.js.map",
+    "static/js/2.597b4a8d.chunk.js": "/esportstalk/static/js/2.597b4a8d.chunk.js",
+    "static/js/2.597b4a8d.chunk.js.map": "/esportstalk/static/js/2.597b4a8d.chunk.js.map",
+    "index.html": "/esportstalk/index.html",
+    "static/css/main.6cc18b57.chunk.css.map": "/esportstalk/static/css/main.6cc18b57.chunk.css.map",
+    "static/js/2.597b4a8d.chunk.js.LICENSE.txt": "/esportstalk/static/js/2.597b4a8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba47f43d.js",
+    "static/js/2.597b4a8d.chunk.js",
+    "static/css/main.6cc18b57.chunk.css",
+    "static/js/main.ce7e7ef3.chunk.js"
+  ]
+}
